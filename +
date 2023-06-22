@@ -1,0 +1,3 @@
+# open the google spreadsheet
+spreadsheet_name = "proxy-checker"  # replace with your spreadsheet name
+worksheet_name = "Proxy List"  # replace with your worksheet name
